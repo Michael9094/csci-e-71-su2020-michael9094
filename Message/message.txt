@@ -1,0 +1,6 @@
+connect smtp
+To: joe@example.com
+
+Hi there!
+
+disconnect
